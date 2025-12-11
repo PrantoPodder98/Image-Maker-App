@@ -1,0 +1,5 @@
+{
+  "name": "Nano Banana Artist",
+  "description": "Transform and edit images using the power of Gemini 2.5 Flash Image. Upload a photo and use text prompts to restyle, edit, or reimagine it.",
+  "requestFramePermissions": []
+}
